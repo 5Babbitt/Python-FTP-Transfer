@@ -1,16 +1,5 @@
 '''
 Script to zip a provided file or folder and send it to a ftp server
-Submission by Owen Harbert
-owen.harbert@gmail.com
-
-This was a fun challenge, thankfully I'm not as rusty in Python as I thought I was.
-I did do some studying and practice before attempting this script just so I could
-use my time as efficiently as possible and while I definitely overscoped what I
-would manage I'm very happy with what I was able to get done in the time and will 
-probably complete it in a copy of this file in my own time.
-Another thing is you'll likely see some pracitices I carry over from C# even if 
-I don't realise them, I've tried to keep variables and functions named with python
-coding conventions but there are places I likely slipped up there.
 
 I made use of the following ftp details for testing:
 host:       ftp.dlptest.com
