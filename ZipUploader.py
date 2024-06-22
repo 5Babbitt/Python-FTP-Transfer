@@ -1,7 +1,6 @@
 '''
 Script to zip a provided file or folder and send it to a ftp server
 Submission by Owen Harbert
-owen.harbert@gmail.com
 
 This was a fun challenge, thankfully I'm not as rusty in Python as I thought I was.
 I did do some studying and practice before attempting this script just so I could
@@ -31,7 +30,7 @@ A few more features I would add:
 -   Finally I'd like to reorganise the script so that it can be run multiple times.
 
 NOTE: Running the file in terminal, command prompt and IDE is successful but whenever I try 
-double clicking it, the file just seems to close for what I assume is the os moduleuse. 
+double clicking it, the file just seems to close for what I assume is the os module. 
 So when trying it out just use cmd, an IDE or your preferred terminal.
 '''
 
